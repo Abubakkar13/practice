@@ -44,10 +44,29 @@ Practice here https://practice.geeksforgeeks.org/batch/Fork-Python/
 * [Welcome aboard - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/1_Welcome_aboard_Python.py)
 * [Slicing in String - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/2_Slicing_in_String_Python.py)
 * [Repeat the Strings - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/3_Repeat_the_Strings_Python.py)
+* [String Functions I - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/4_String_Functions_I_Python.py)
+* [String Functions - II - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/5_String_Functions_II_Python.py)
+* [Regex - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/6_Regex_Python.py)
+* [Regular Expressions 2 - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%203%20(strings)/python-strings/7_Regular_Expressions_2_Python.py)
 
 ### Module 4(Classes and Functions)
 
+## python-functions
+* [Functions - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%204%20(Classes%20and%20Functions)/python-function/1_Functions_Python.py)
+* [Classes and Objects - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%204%20(Classes%20and%20Functions)/python-function/2_Classes_and_Objects_Python.py)
+* [Variable Arguments - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%204%20(Classes%20and%20Functions)/python-function/3_Variable_Arguments_Python.py)
+* [Anonymous Functions - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%204%20(Classes%20and%20Functions)/python-function/4_Anonymous_Functions_Python.py)
+* [Modules](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%204%20(Classes%20and%20Functions)/python-function/5_Modules.py)
+
 ### Module 5(Lists)
+
+## python-lists
+* [Intro to Lists - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%205%20(Lists)/python-list/1_Intro_to_Lists_Python.py)
+* [Iterating through Lists - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%205%20(Lists)/python-list/2_Iterating_through_Lists_Python.py)
+* [Count Even Odd - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%205%20(Lists)/python-list/3_Count_Even_Odd_Python.py)
+* [Functions in Lists - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%205%20(Lists)/python-list/4_Functions_in_Lists_Python.py)
+* [Average_Min_Max - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%205%20(Lists)/python-list/5_Average_Min_Max_Python.py)
+* [Sorting in Lists - Python](https://github.com/rutujar/practice/blob/master/Fork%20Python/Tracks/Module%205%20(Lists)/python-list/6_Sorting_in_Lists_Python.py)
 
 ### Module 6(Dictionary and sets)
 
