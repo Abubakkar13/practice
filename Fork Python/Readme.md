@@ -70,3 +70,24 @@ Practice here https://practice.geeksforgeeks.org/batch/Fork-Python/
 
 ### Module 6(Dictionary and sets)
 
+# Contest
+### Module 1
+* Mean finder
+* Nearest power
+* Two digit sum
+
+### Module 2
+* Doge
+* Neighbor of 10
+
+### Module 3
+* copy the end
+* extract the image
+
+### Module 4
+* Fibonacci objects
+* Lambda sum
+
+### Module 5
+* Four and Four
+* Unlucky number
